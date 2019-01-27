@@ -1,0 +1,2 @@
+def hammingDecoder(v):
+    pass
